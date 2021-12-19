@@ -1,0 +1,7 @@
+LOGO
+#site-logo #site-logo-inner a img, #site-header.center-header #site-navigation-wrap .middle-site-logo a img
+
+MENU
+#site-navigation-wrap
+
+#site-header.transparent-header
